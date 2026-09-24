@@ -1,0 +1,2377 @@
+[
+  {
+    "title": "AeroSound Wireless Noise-Cancelling Headphones",
+    "categorySlug": "electronics-audio",
+    "sellerIndex": 0,
+    "description": {
+      "short": "Immersive sound with up to 30 hours of battery life and adaptive noise cancellation.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Immersive sound with up to 30 hours of battery life and adaptive noise cancellation."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Electronics Audio"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 1 year manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 3 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/headphones-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/headphones-g1/800/800",
+        "https://picsum.photos/seed/headphones-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 199.99,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "AWN754-1",
+        "attributes": {
+          "color": "Black"
+        },
+        "images": [
+          "https://picsum.photos/seed/headphones-1/800/800"
+        ],
+        "initialQuantity": 22
+      },
+      {
+        "sku": "AWN754-2",
+        "attributes": {
+          "color": "Silver"
+        },
+        "images": [
+          "https://picsum.photos/seed/headphones-2/800/800"
+        ],
+        "initialQuantity": 16
+      }
+    ],
+    "fulfillment": {
+      "warranty": "1 year",
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": 7,
+      "shippingFee": 0,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 3
+    },
+    "status": "active"
+  },
+  {
+    "title": "EchoBeat Portable Bluetooth Speaker",
+    "categorySlug": "electronics-audio",
+    "sellerIndex": 1,
+    "description": {
+      "short": "Pocket-sized speaker with room-filling 360-degree sound and IPX7 waterproofing.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Pocket-sized speaker with room-filling 360-degree sound and IPX7 waterproofing."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Electronics Audio"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 6 months manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 4 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/speaker-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/speaker-g1/800/800",
+        "https://picsum.photos/seed/speaker-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 59.99,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "EPB859-1",
+        "attributes": {
+          "color": "Blue"
+        },
+        "images": [
+          "https://picsum.photos/seed/speaker-1/800/800"
+        ],
+        "initialQuantity": 32
+      },
+      {
+        "sku": "EPB859-2",
+        "attributes": {
+          "color": "Red"
+        },
+        "images": [
+          "https://picsum.photos/seed/speaker-2/800/800"
+        ],
+        "initialQuantity": 30
+      },
+      {
+        "sku": "EPB859-3",
+        "attributes": {
+          "color": "Black"
+        },
+        "images": [
+          "https://picsum.photos/seed/speaker-3/800/800"
+        ],
+        "initialQuantity": 29
+      }
+    ],
+    "fulfillment": {
+      "warranty": "6 months",
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": 7,
+      "shippingFee": 0,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 4
+    },
+    "status": "active"
+  },
+  {
+    "title": "PulseFit Smart Fitness Watch",
+    "categorySlug": "electronics-wearables",
+    "sellerIndex": 0,
+    "description": {
+      "short": "Track heart rate, sleep, and 20+ workout modes with a 10-day battery.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Track heart rate, sleep, and 20+ workout modes with a 10-day battery."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Electronics Wearables"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 1 year manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 3 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/watch-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/watch-g1/800/800",
+        "https://picsum.photos/seed/watch-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 129.0,
+      "currency": "USD",
+      "discountPercent": 15
+    },
+    "variants": [
+      {
+        "sku": "PSF854-1",
+        "attributes": {
+          "color": "Black"
+        },
+        "images": [
+          "https://picsum.photos/seed/watch-1/800/800"
+        ],
+        "initialQuantity": 21
+      },
+      {
+        "sku": "PSF854-2",
+        "attributes": {
+          "color": "Rose Gold"
+        },
+        "images": [
+          "https://picsum.photos/seed/watch-2/800/800"
+        ],
+        "initialQuantity": 3
+      }
+    ],
+    "fulfillment": {
+      "warranty": "1 year",
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": 7,
+      "shippingFee": 0,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 3
+    },
+    "status": "active"
+  },
+  {
+    "title": "TrackerX Fitness Band",
+    "categorySlug": "electronics-wearables",
+    "sellerIndex": 1,
+    "description": {
+      "short": "Lightweight fitness band with step tracking, SpO2 monitoring, and phone notifications.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Lightweight fitness band with step tracking, SpO2 monitoring, and phone notifications."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Electronics Wearables"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "This item does not include a manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 5 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/band-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/band-g1/800/800",
+        "https://picsum.photos/seed/band-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 34.99,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "TFB858-1",
+        "attributes": {
+          "color": "Black"
+        },
+        "images": [
+          "https://picsum.photos/seed/band-1/800/800"
+        ],
+        "initialQuantity": 49
+      },
+      {
+        "sku": "TFB858-2",
+        "attributes": {
+          "color": "Teal"
+        },
+        "images": [
+          "https://picsum.photos/seed/band-2/800/800"
+        ],
+        "initialQuantity": 20
+      }
+    ],
+    "fulfillment": {
+      "warranty": null,
+      "isAssured": true,
+      "returnWindowDays": 7,
+      "replacementWindowDays": null,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 5
+    },
+    "status": "active"
+  },
+  {
+    "title": "NovaPhone X12 Smartphone",
+    "categorySlug": "electronics-mobiles",
+    "sellerIndex": 0,
+    "description": {
+      "short": "6.5-inch AMOLED display, 128GB storage, and a 48MP triple camera system.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "6.5-inch AMOLED display, 128GB storage, and a 48MP triple camera system."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Electronics Mobiles"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 1 year manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 5 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/phone-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/phone-g1/800/800",
+        "https://picsum.photos/seed/phone-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 449.0,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "NXS704-1",
+        "attributes": {
+          "storage": "128GB"
+        },
+        "images": [
+          "https://picsum.photos/seed/phone-1/800/800"
+        ],
+        "initialQuantity": 42
+      },
+      {
+        "sku": "NXS704-2",
+        "attributes": {
+          "storage": "256GB"
+        },
+        "images": [
+          "https://picsum.photos/seed/phone-2/800/800"
+        ],
+        "initialQuantity": 17
+      }
+    ],
+    "fulfillment": {
+      "warranty": "1 year",
+      "isAssured": false,
+      "returnWindowDays": 10,
+      "replacementWindowDays": 10,
+      "shippingFee": 0,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 5
+    },
+    "status": "active"
+  },
+  {
+    "title": "Orbit Mini Budget Smartphone",
+    "categorySlug": "electronics-mobiles",
+    "sellerIndex": 1,
+    "description": {
+      "short": "Reliable everyday smartphone with a 5000mAh battery and dual SIM support.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Reliable everyday smartphone with a 5000mAh battery and dual SIM support."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Electronics Mobiles"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 1 year manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 6 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/budgetphone-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/budgetphone-g1/800/800",
+        "https://picsum.photos/seed/budgetphone-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 149.0,
+      "currency": "USD",
+      "discountPercent": 10
+    },
+    "variants": [
+      {
+        "sku": "OMB195-1",
+        "attributes": {
+          "color": "Midnight Blue"
+        },
+        "images": [
+          "https://picsum.photos/seed/budgetphone-1/800/800"
+        ],
+        "initialQuantity": 28
+      },
+      {
+        "sku": "OMB195-2",
+        "attributes": {
+          "color": "Graphite"
+        },
+        "images": [
+          "https://picsum.photos/seed/budgetphone-2/800/800"
+        ],
+        "initialQuantity": 29
+      }
+    ],
+    "fulfillment": {
+      "warranty": "1 year",
+      "isAssured": false,
+      "returnWindowDays": 10,
+      "replacementWindowDays": 10,
+      "shippingFee": 0,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 6
+    },
+    "status": "active"
+  },
+  {
+    "title": "SwiftBook Air 14 Laptop",
+    "categorySlug": "electronics-laptops",
+    "sellerIndex": 0,
+    "description": {
+      "short": "Ultra-thin 14-inch laptop with a 12-hour battery, ideal for work on the go.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Ultra-thin 14-inch laptop with a 12-hour battery, ideal for work on the go."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Electronics Laptops"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 1 year manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 6 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/laptop-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/laptop-g1/800/800",
+        "https://picsum.photos/seed/laptop-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 799.0,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "SA1617-1",
+        "attributes": {
+          "ram": "8GB RAM"
+        },
+        "images": [
+          "https://picsum.photos/seed/laptop-1/800/800"
+        ],
+        "initialQuantity": 53
+      },
+      {
+        "sku": "SA1617-2",
+        "attributes": {
+          "ram": "16GB RAM"
+        },
+        "images": [
+          "https://picsum.photos/seed/laptop-2/800/800"
+        ],
+        "initialQuantity": 16
+      }
+    ],
+    "fulfillment": {
+      "warranty": "1 year",
+      "isAssured": false,
+      "returnWindowDays": 10,
+      "replacementWindowDays": 10,
+      "shippingFee": 0,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 6
+    },
+    "status": "active"
+  },
+  {
+    "title": "CoreStation Gaming Laptop 15",
+    "categorySlug": "electronics-laptops",
+    "sellerIndex": 1,
+    "description": {
+      "short": "15.6-inch 144Hz display with a dedicated GPU for smooth gaming and creative work.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "15.6-inch 144Hz display with a dedicated GPU for smooth gaming and creative work."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Electronics Laptops"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 2 years manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 7 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/gaminglaptop-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/gaminglaptop-g1/800/800",
+        "https://picsum.photos/seed/gaminglaptop-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 1099.0,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "CGL674-1",
+        "attributes": {
+          "storage": "512GB SSD"
+        },
+        "images": [
+          "https://picsum.photos/seed/gaminglaptop-1/800/800"
+        ],
+        "initialQuantity": 27
+      },
+      {
+        "sku": "CGL674-2",
+        "attributes": {
+          "storage": "1TB SSD"
+        },
+        "images": [
+          "https://picsum.photos/seed/gaminglaptop-2/800/800"
+        ],
+        "initialQuantity": 60
+      }
+    ],
+    "fulfillment": {
+      "warranty": "2 years",
+      "isAssured": true,
+      "returnWindowDays": 10,
+      "replacementWindowDays": 10,
+      "shippingFee": 0,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 7
+    },
+    "status": "active"
+  },
+  {
+    "title": "Heritage Cotton Formal Shirt",
+    "categorySlug": "fashion-men",
+    "sellerIndex": 0,
+    "description": {
+      "short": "Breathable 100% cotton shirt with a tailored fit, perfect for the office.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Breathable 100% cotton shirt with a tailored fit, perfect for the office."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Fashion Men"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "This item does not include a manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 4 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/menshirt-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/menshirt-g1/800/800",
+        "https://picsum.photos/seed/menshirt-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 29.99,
+      "currency": "USD",
+      "discountPercent": 25
+    },
+    "variants": [
+      {
+        "sku": "HCF325-1",
+        "attributes": {
+          "size": "M"
+        },
+        "images": [
+          "https://picsum.photos/seed/menshirt-1/800/800"
+        ],
+        "initialQuantity": 43
+      },
+      {
+        "sku": "HCF325-2",
+        "attributes": {
+          "size": "L"
+        },
+        "images": [
+          "https://picsum.photos/seed/menshirt-2/800/800"
+        ],
+        "initialQuantity": 52
+      },
+      {
+        "sku": "HCF325-3",
+        "attributes": {
+          "size": "XL"
+        },
+        "images": [
+          "https://picsum.photos/seed/menshirt-3/800/800"
+        ],
+        "initialQuantity": 32
+      }
+    ],
+    "fulfillment": {
+      "warranty": null,
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": null,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 4
+    },
+    "status": "active"
+  },
+  {
+    "title": "Urban Slim-Fit Denim Jeans",
+    "categorySlug": "fashion-men",
+    "sellerIndex": 1,
+    "description": {
+      "short": "Stretch-comfort denim with a modern slim fit and reinforced stitching.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Stretch-comfort denim with a modern slim fit and reinforced stitching."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Fashion Men"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "This item does not include a manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 4 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/mensjeans-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/mensjeans-g1/800/800",
+        "https://picsum.photos/seed/mensjeans-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 39.99,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "USD928-1",
+        "attributes": {
+          "size": "30"
+        },
+        "images": [
+          "https://picsum.photos/seed/mensjeans-1/800/800"
+        ],
+        "initialQuantity": 15
+      },
+      {
+        "sku": "USD928-2",
+        "attributes": {
+          "size": "32"
+        },
+        "images": [
+          "https://picsum.photos/seed/mensjeans-2/800/800"
+        ],
+        "initialQuantity": 25
+      },
+      {
+        "sku": "USD928-3",
+        "attributes": {
+          "size": "34"
+        },
+        "images": [
+          "https://picsum.photos/seed/mensjeans-3/800/800"
+        ],
+        "initialQuantity": 59
+      }
+    ],
+    "fulfillment": {
+      "warranty": null,
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": null,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 4
+    },
+    "status": "active"
+  },
+  {
+    "title": "Saffron Thread Women's Cotton Kurta",
+    "categorySlug": "fashion-women",
+    "sellerIndex": 0,
+    "description": {
+      "short": "Hand block-printed cotton kurta with three-quarter sleeves and side slits.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Hand block-printed cotton kurta with three-quarter sleeves and side slits."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Fashion Women"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "This item does not include a manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 3 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/kurta-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/kurta-g1/800/800",
+        "https://picsum.photos/seed/kurta-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 34.99,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "STW532-1",
+        "attributes": {
+          "size": "S"
+        },
+        "images": [
+          "https://picsum.photos/seed/kurta-1/800/800"
+        ],
+        "initialQuantity": 36
+      },
+      {
+        "sku": "STW532-2",
+        "attributes": {
+          "size": "M"
+        },
+        "images": [
+          "https://picsum.photos/seed/kurta-2/800/800"
+        ],
+        "initialQuantity": 32
+      },
+      {
+        "sku": "STW532-3",
+        "attributes": {
+          "size": "L"
+        },
+        "images": [
+          "https://picsum.photos/seed/kurta-3/800/800"
+        ],
+        "initialQuantity": 24
+      }
+    ],
+    "fulfillment": {
+      "warranty": null,
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": null,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 3
+    },
+    "status": "active"
+  },
+  {
+    "title": "Bloom Floral Summer Dress",
+    "categorySlug": "fashion-women",
+    "sellerIndex": 1,
+    "description": {
+      "short": "Lightweight rayon dress with a floral print, perfect for warm days.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Lightweight rayon dress with a floral print, perfect for warm days."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Fashion Women"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "This item does not include a manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 4 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/summerdress-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/summerdress-g1/800/800",
+        "https://picsum.photos/seed/summerdress-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 44.99,
+      "currency": "USD",
+      "discountPercent": 15
+    },
+    "variants": [
+      {
+        "sku": "BFS881-1",
+        "attributes": {
+          "size": "S"
+        },
+        "images": [
+          "https://picsum.photos/seed/summerdress-1/800/800"
+        ],
+        "initialQuantity": 36
+      },
+      {
+        "sku": "BFS881-2",
+        "attributes": {
+          "size": "M"
+        },
+        "images": [
+          "https://picsum.photos/seed/summerdress-2/800/800"
+        ],
+        "initialQuantity": 21
+      },
+      {
+        "sku": "BFS881-3",
+        "attributes": {
+          "size": "L"
+        },
+        "images": [
+          "https://picsum.photos/seed/summerdress-3/800/800"
+        ],
+        "initialQuantity": 20
+      }
+    ],
+    "fulfillment": {
+      "warranty": null,
+      "isAssured": true,
+      "returnWindowDays": 7,
+      "replacementWindowDays": null,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 4
+    },
+    "status": "active"
+  },
+  {
+    "title": "StrideMax Men's Running Shoes",
+    "categorySlug": "fashion-footwear",
+    "sellerIndex": 0,
+    "description": {
+      "short": "Breathable mesh upper with responsive cushioning for daily runs.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Breathable mesh upper with responsive cushioning for daily runs."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Fashion Footwear"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 6 months manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 3 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/runningshoes-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/runningshoes-g1/800/800",
+        "https://picsum.photos/seed/runningshoes-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 64.0,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "SMR489-1",
+        "attributes": {
+          "size": "8"
+        },
+        "images": [
+          "https://picsum.photos/seed/runningshoes-1/800/800"
+        ],
+        "initialQuantity": 0
+      },
+      {
+        "sku": "SMR489-2",
+        "attributes": {
+          "size": "9"
+        },
+        "images": [
+          "https://picsum.photos/seed/runningshoes-2/800/800"
+        ],
+        "initialQuantity": 37
+      },
+      {
+        "sku": "SMR489-3",
+        "attributes": {
+          "size": "10"
+        },
+        "images": [
+          "https://picsum.photos/seed/runningshoes-3/800/800"
+        ],
+        "initialQuantity": 37
+      },
+      {
+        "sku": "SMR489-4",
+        "attributes": {
+          "size": "11"
+        },
+        "images": [
+          "https://picsum.photos/seed/runningshoes-4/800/800"
+        ],
+        "initialQuantity": 53
+      }
+    ],
+    "fulfillment": {
+      "warranty": "6 months",
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": 7,
+      "shippingFee": 0,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 3
+    },
+    "status": "active"
+  },
+  {
+    "title": "GlideStep Women's Casual Sneakers",
+    "categorySlug": "fashion-footwear",
+    "sellerIndex": 1,
+    "description": {
+      "short": "Lightweight everyday sneakers with a memory-foam insole.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Lightweight everyday sneakers with a memory-foam insole."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Fashion Footwear"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 6 months manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 4 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/sneakers-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/sneakers-g1/800/800",
+        "https://picsum.photos/seed/sneakers-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 49.99,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "GWC370-1",
+        "attributes": {
+          "size": "6"
+        },
+        "images": [
+          "https://picsum.photos/seed/sneakers-1/800/800"
+        ],
+        "initialQuantity": 17
+      },
+      {
+        "sku": "GWC370-2",
+        "attributes": {
+          "size": "7"
+        },
+        "images": [
+          "https://picsum.photos/seed/sneakers-2/800/800"
+        ],
+        "initialQuantity": 44
+      },
+      {
+        "sku": "GWC370-3",
+        "attributes": {
+          "size": "8"
+        },
+        "images": [
+          "https://picsum.photos/seed/sneakers-3/800/800"
+        ],
+        "initialQuantity": 49
+      },
+      {
+        "sku": "GWC370-4",
+        "attributes": {
+          "size": "9"
+        },
+        "images": [
+          "https://picsum.photos/seed/sneakers-4/800/800"
+        ],
+        "initialQuantity": 22
+      }
+    ],
+    "fulfillment": {
+      "warranty": "6 months",
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": 7,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 4
+    },
+    "status": "active"
+  },
+  {
+    "title": "ChefPro 5-Piece Non-Stick Cookware Set",
+    "categorySlug": "home-cookware",
+    "sellerIndex": 0,
+    "description": {
+      "short": "Durable non-stick cookware set with heat-resistant handles, oven-safe to 250\u00b0C.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Durable non-stick cookware set with heat-resistant handles, oven-safe to 250\u00b0C."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Home Cookware"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 2 years manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 4 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/cookware-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/cookware-g1/800/800",
+        "https://picsum.photos/seed/cookware-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 89.99,
+      "currency": "USD",
+      "discountPercent": 25
+    },
+    "variants": [
+      {
+        "sku": "C5N180-1",
+        "attributes": {
+          "color": "Charcoal"
+        },
+        "images": [
+          "https://picsum.photos/seed/cookware-1/800/800"
+        ],
+        "initialQuantity": 50
+      },
+      {
+        "sku": "C5N180-2",
+        "attributes": {
+          "color": "Terracotta"
+        },
+        "images": [
+          "https://picsum.photos/seed/cookware-2/800/800"
+        ],
+        "initialQuantity": 33
+      }
+    ],
+    "fulfillment": {
+      "warranty": "2 years",
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": 7,
+      "shippingFee": 0,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 4
+    },
+    "status": "active"
+  },
+  {
+    "title": "IronCast Pre-Seasoned Skillet",
+    "categorySlug": "home-cookware",
+    "sellerIndex": 1,
+    "description": {
+      "short": "Traditional cast-iron skillet that develops a natural non-stick seasoning over time.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Traditional cast-iron skillet that develops a natural non-stick seasoning over time."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Home Cookware"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, Lifetime manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 5 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/skillet-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/skillet-g1/800/800",
+        "https://picsum.photos/seed/skillet-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 29.99,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "IPS949-1",
+        "attributes": {
+          "size": "10 inch"
+        },
+        "images": [
+          "https://picsum.photos/seed/skillet-1/800/800"
+        ],
+        "initialQuantity": 55
+      },
+      {
+        "sku": "IPS949-2",
+        "attributes": {
+          "size": "12 inch"
+        },
+        "images": [
+          "https://picsum.photos/seed/skillet-2/800/800"
+        ],
+        "initialQuantity": 54
+      }
+    ],
+    "fulfillment": {
+      "warranty": "Lifetime",
+      "isAssured": true,
+      "returnWindowDays": 7,
+      "replacementWindowDays": 7,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 5
+    },
+    "status": "active"
+  },
+  {
+    "title": "CleanBot 3000 Robot Vacuum Cleaner",
+    "categorySlug": "home-appliances",
+    "sellerIndex": 0,
+    "description": {
+      "short": "Smart mapping robot vacuum with 2200Pa suction and app control.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Smart mapping robot vacuum with 2200Pa suction and app control."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Home Appliances"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 1 year manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 5 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/vacuum-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/vacuum-g1/800/800",
+        "https://picsum.photos/seed/vacuum-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 249.0,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "C3R982-1",
+        "attributes": {
+          "color": "White"
+        },
+        "images": [
+          "https://picsum.photos/seed/vacuum-1/800/800"
+        ],
+        "initialQuantity": 38
+      },
+      {
+        "sku": "C3R982-2",
+        "attributes": {
+          "color": "Black"
+        },
+        "images": [
+          "https://picsum.photos/seed/vacuum-2/800/800"
+        ],
+        "initialQuantity": 51
+      }
+    ],
+    "fulfillment": {
+      "warranty": "1 year",
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": 7,
+      "shippingFee": 0,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 5
+    },
+    "status": "active"
+  },
+  {
+    "title": "FrostAir Mini Refrigerator",
+    "categorySlug": "home-appliances",
+    "sellerIndex": 1,
+    "description": {
+      "short": "45L compact refrigerator ideal for dorms, offices, and bar setups.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "45L compact refrigerator ideal for dorms, offices, and bar setups."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Home Appliances"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 1 year manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 6 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/minifridge-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/minifridge-g1/800/800",
+        "https://picsum.photos/seed/minifridge-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 139.0,
+      "currency": "USD",
+      "discountPercent": 15
+    },
+    "variants": [
+      {
+        "sku": "FMR821-1",
+        "attributes": {
+          "color": "Silver"
+        },
+        "images": [
+          "https://picsum.photos/seed/minifridge-1/800/800"
+        ],
+        "initialQuantity": 19
+      },
+      {
+        "sku": "FMR821-2",
+        "attributes": {
+          "color": "Black"
+        },
+        "images": [
+          "https://picsum.photos/seed/minifridge-2/800/800"
+        ],
+        "initialQuantity": 17
+      }
+    ],
+    "fulfillment": {
+      "warranty": "1 year",
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": 7,
+      "shippingFee": 0,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 6
+    },
+    "status": "active"
+  },
+  {
+    "title": "Nordic Oak Bookshelf",
+    "categorySlug": "home-furniture",
+    "sellerIndex": 0,
+    "description": {
+      "short": "5-tier solid oak bookshelf with a minimalist Scandinavian design.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "5-tier solid oak bookshelf with a minimalist Scandinavian design."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Home Furniture"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 1 year manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 7 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/bookshelf-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/bookshelf-g1/800/800",
+        "https://picsum.photos/seed/bookshelf-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 119.0,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "NOB777-1",
+        "attributes": {
+          "color": "Natural Oak"
+        },
+        "images": [
+          "https://picsum.photos/seed/bookshelf-1/800/800"
+        ],
+        "initialQuantity": 29
+      },
+      {
+        "sku": "NOB777-2",
+        "attributes": {
+          "color": "Walnut"
+        },
+        "images": [
+          "https://picsum.photos/seed/bookshelf-2/800/800"
+        ],
+        "initialQuantity": 33
+      }
+    ],
+    "fulfillment": {
+      "warranty": "1 year",
+      "isAssured": false,
+      "returnWindowDays": 10,
+      "replacementWindowDays": null,
+      "shippingFee": 0,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 7
+    },
+    "status": "active"
+  },
+  {
+    "title": "ComfortCurve Ergonomic Office Chair",
+    "categorySlug": "home-furniture",
+    "sellerIndex": 1,
+    "description": {
+      "short": "Mesh-back office chair with lumbar support and adjustable armrests.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Mesh-back office chair with lumbar support and adjustable armrests."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Home Furniture"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 2 years manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 6 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/officechair-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/officechair-g1/800/800",
+        "https://picsum.photos/seed/officechair-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 159.0,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "CEO181-1",
+        "attributes": {
+          "color": "Black"
+        },
+        "images": [
+          "https://picsum.photos/seed/officechair-1/800/800"
+        ],
+        "initialQuantity": 29
+      },
+      {
+        "sku": "CEO181-2",
+        "attributes": {
+          "color": "Grey"
+        },
+        "images": [
+          "https://picsum.photos/seed/officechair-2/800/800"
+        ],
+        "initialQuantity": 21
+      }
+    ],
+    "fulfillment": {
+      "warranty": "2 years",
+      "isAssured": true,
+      "returnWindowDays": 10,
+      "replacementWindowDays": 10,
+      "shippingFee": 0,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 6
+    },
+    "status": "active"
+  },
+  {
+    "title": "The Silent Path \u2014 A Novel",
+    "categorySlug": "books-fiction",
+    "sellerIndex": 0,
+    "description": {
+      "short": "A gripping literary tale of memory, loss, and quiet redemption.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "A gripping literary tale of memory, loss, and quiet redemption."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Books Fiction"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "This item does not include a manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 3 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/novel1-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/novel1-g1/800/800",
+        "https://picsum.photos/seed/novel1-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 14.99,
+      "currency": "USD",
+      "discountPercent": 25
+    },
+    "variants": [
+      {
+        "sku": "TSP384-1",
+        "attributes": {
+          "format": "Paperback"
+        },
+        "images": [
+          "https://picsum.photos/seed/novel1-1/800/800"
+        ],
+        "initialQuantity": 44
+      }
+    ],
+    "fulfillment": {
+      "warranty": null,
+      "isAssured": false,
+      "returnWindowDays": null,
+      "replacementWindowDays": null,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 3
+    },
+    "status": "active"
+  },
+  {
+    "title": "Whispers of the Old Harbor",
+    "categorySlug": "books-fiction",
+    "sellerIndex": 1,
+    "description": {
+      "short": "A coastal mystery following a detective unraveling a decades-old disappearance.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "A coastal mystery following a detective unraveling a decades-old disappearance."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Books Fiction"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "This item does not include a manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 3 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/novel2-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/novel2-g1/800/800",
+        "https://picsum.photos/seed/novel2-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 16.99,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "WOT750-1",
+        "attributes": {
+          "format": "Paperback"
+        },
+        "images": [
+          "https://picsum.photos/seed/novel2-1/800/800"
+        ],
+        "initialQuantity": 38
+      },
+      {
+        "sku": "WOT750-2",
+        "attributes": {
+          "format": "Hardcover"
+        },
+        "images": [
+          "https://picsum.photos/seed/novel2-2/800/800"
+        ],
+        "initialQuantity": 25
+      }
+    ],
+    "fulfillment": {
+      "warranty": null,
+      "isAssured": false,
+      "returnWindowDays": null,
+      "replacementWindowDays": null,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 3
+    },
+    "status": "active"
+  },
+  {
+    "title": "Mindful Mornings \u2014 A Guide to Intentional Living",
+    "categorySlug": "books-non-fiction",
+    "sellerIndex": 0,
+    "description": {
+      "short": "Practical habits and reflections for building a calmer daily routine.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Practical habits and reflections for building a calmer daily routine."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Books Non Fiction"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "This item does not include a manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 3 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/nonfiction1-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/nonfiction1-g1/800/800",
+        "https://picsum.photos/seed/nonfiction1-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 18.99,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "MM\u2014479-1",
+        "attributes": {
+          "format": "Paperback"
+        },
+        "images": [
+          "https://picsum.photos/seed/nonfiction1-1/800/800"
+        ],
+        "initialQuantity": 37
+      }
+    ],
+    "fulfillment": {
+      "warranty": null,
+      "isAssured": false,
+      "returnWindowDays": null,
+      "replacementWindowDays": null,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 3
+    },
+    "status": "active"
+  },
+  {
+    "title": "The Founder's Playbook",
+    "categorySlug": "books-non-fiction",
+    "sellerIndex": 1,
+    "description": {
+      "short": "Real-world lessons on building and scaling an early-stage startup.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Real-world lessons on building and scaling an early-stage startup."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Books Non Fiction"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "This item does not include a manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 3 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/nonfiction2-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/nonfiction2-g1/800/800",
+        "https://picsum.photos/seed/nonfiction2-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 22.99,
+      "currency": "USD",
+      "discountPercent": 15
+    },
+    "variants": [
+      {
+        "sku": "TFP786-1",
+        "attributes": {
+          "format": "Paperback"
+        },
+        "images": [
+          "https://picsum.photos/seed/nonfiction2-1/800/800"
+        ],
+        "initialQuantity": 32
+      },
+      {
+        "sku": "TFP786-2",
+        "attributes": {
+          "format": "Hardcover"
+        },
+        "images": [
+          "https://picsum.photos/seed/nonfiction2-2/800/800"
+        ],
+        "initialQuantity": 59
+      }
+    ],
+    "fulfillment": {
+      "warranty": null,
+      "isAssured": true,
+      "returnWindowDays": null,
+      "replacementWindowDays": null,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 3
+    },
+    "status": "active"
+  },
+  {
+    "title": "ZenFlex Pro Yoga Mat",
+    "categorySlug": "sports-fitness",
+    "sellerIndex": 0,
+    "description": {
+      "short": "Extra-thick 6mm yoga mat with superior grip, free from harmful chemicals.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Extra-thick 6mm yoga mat with superior grip, free from harmful chemicals."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Sports Fitness"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "This item does not include a manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 3 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/yogamat-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/yogamat-g1/800/800",
+        "https://picsum.photos/seed/yogamat-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 34.99,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "ZPY799-1",
+        "attributes": {
+          "color": "Purple"
+        },
+        "images": [
+          "https://picsum.photos/seed/yogamat-1/800/800"
+        ],
+        "initialQuantity": 56
+      },
+      {
+        "sku": "ZPY799-2",
+        "attributes": {
+          "color": "Teal"
+        },
+        "images": [
+          "https://picsum.photos/seed/yogamat-2/800/800"
+        ],
+        "initialQuantity": 19
+      }
+    ],
+    "fulfillment": {
+      "warranty": null,
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": null,
+      "shippingFee": 4.99,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 3
+    },
+    "status": "active"
+  },
+  {
+    "title": "PowerCore Adjustable Dumbbell Set",
+    "categorySlug": "sports-fitness",
+    "sellerIndex": 1,
+    "description": {
+      "short": "Space-saving adjustable dumbbells from 5 to 25 lbs per hand.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Space-saving adjustable dumbbells from 5 to 25 lbs per hand."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Sports Fitness"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 1 year manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 5 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/dumbbells-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/dumbbells-g1/800/800",
+        "https://picsum.photos/seed/dumbbells-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 129.0,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "PAD723-1",
+        "attributes": {
+          "weight": "25 lb pair"
+        },
+        "images": [
+          "https://picsum.photos/seed/dumbbells-1/800/800"
+        ],
+        "initialQuantity": 55
+      },
+      {
+        "sku": "PAD723-2",
+        "attributes": {
+          "weight": "50 lb pair"
+        },
+        "images": [
+          "https://picsum.photos/seed/dumbbells-2/800/800"
+        ],
+        "initialQuantity": 25
+      }
+    ],
+    "fulfillment": {
+      "warranty": "1 year",
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": 7,
+      "shippingFee": 0,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 5
+    },
+    "status": "active"
+  },
+  {
+    "title": "TrailLite 2-Person Camping Tent",
+    "categorySlug": "sports-camping",
+    "sellerIndex": 0,
+    "description": {
+      "short": "Waterproof, easy-pitch tent with a rainfly, built for weekend backpacking trips.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Waterproof, easy-pitch tent with a rainfly, built for weekend backpacking trips."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by Urban Gadgets Co.'s quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Sports Camping"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "Yes, 1 year manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 5 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/tent-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/tent-g1/800/800",
+        "https://picsum.photos/seed/tent-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 89.99,
+      "currency": "USD",
+      "discountPercent": 15
+    },
+    "variants": [
+      {
+        "sku": "T2C267-1",
+        "attributes": {
+          "color": "Green"
+        },
+        "images": [
+          "https://picsum.photos/seed/tent-1/800/800"
+        ],
+        "initialQuantity": 44
+      },
+      {
+        "sku": "T2C267-2",
+        "attributes": {
+          "color": "Orange"
+        },
+        "images": [
+          "https://picsum.photos/seed/tent-2/800/800"
+        ],
+        "initialQuantity": 39
+      }
+    ],
+    "fulfillment": {
+      "warranty": "1 year",
+      "isAssured": false,
+      "returnWindowDays": 7,
+      "replacementWindowDays": 7,
+      "shippingFee": 0,
+      "shipsFromPincode": "400001",
+      "estimatedDeliveryDays": 5
+    },
+    "status": "active"
+  },
+  {
+    "title": "BaseCamp Insulated Sleeping Bag",
+    "categorySlug": "sports-camping",
+    "sellerIndex": 1,
+    "description": {
+      "short": "Cold-weather sleeping bag rated to -5\u00b0C with a compact carry sack.",
+      "sections": [
+        {
+          "heading": "About this item",
+          "content": "Cold-weather sleeping bag rated to -5\u00b0C with a compact carry sack."
+        },
+        {
+          "heading": "Why you'll love it",
+          "content": "Backed by HomeStyle Essentials's quality promise and fast, reliable shipping."
+        }
+      ],
+      "specifications": [
+        {
+          "group": "General",
+          "items": [
+            {
+              "key": "Category",
+              "value": "Sports Camping"
+            }
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is this covered by warranty?",
+        "answer": "This item does not include a manufacturer warranty."
+      },
+      {
+        "question": "How long does delivery take?",
+        "answer": "Typically 5 days depending on your location."
+      }
+    ],
+    "images": {
+      "main": "https://picsum.photos/seed/sleepingbag-main/800/800",
+      "gallery": [
+        "https://picsum.photos/seed/sleepingbag-g1/800/800",
+        "https://picsum.photos/seed/sleepingbag-g2/800/800"
+      ]
+    },
+    "pricing": {
+      "basePrice": 54.99,
+      "currency": "USD"
+    },
+    "variants": [
+      {
+        "sku": "BIS376-1",
+        "attributes": {
+          "color": "Navy"
+        },
+        "images": [
+          "https://picsum.photos/seed/sleepingbag-1/800/800"
+        ],
+        "initialQuantity": 55
+      },
+      {
+        "sku": "BIS376-2",
+        "attributes": {
+          "color": "Olive"
+        },
+        "images": [
+          "https://picsum.photos/seed/sleepingbag-2/800/800"
+        ],
+        "initialQuantity": 59
+      }
+    ],
+    "fulfillment": {
+      "warranty": null,
+      "isAssured": true,
+      "returnWindowDays": 7,
+      "replacementWindowDays": null,
+      "shippingFee": 0,
+      "shipsFromPincode": "560001",
+      "estimatedDeliveryDays": 5
+    },
+    "status": "active"
+  }
+]

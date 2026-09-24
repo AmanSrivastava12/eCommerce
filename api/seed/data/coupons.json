@@ -1,0 +1,57 @@
+[
+  {
+    "code": "WELCOME10",
+    "discountType": "percent",
+    "discountValue": 10,
+    "minCartValue": 20,
+    "maxDiscountAmount": 50,
+    "validFrom": "2026-01-01T00:00:00.000Z",
+    "validTo": "2027-01-01T00:00:00.000Z",
+    "usageLimitPerUser": 1,
+    "active": true
+  },
+  {
+    "code": "FLAT20",
+    "discountType": "flat",
+    "discountValue": 20,
+    "minCartValue": 100,
+    "maxDiscountAmount": null,
+    "validFrom": "2026-01-01T00:00:00.000Z",
+    "validTo": "2027-01-01T00:00:00.000Z",
+    "usageLimitPerUser": null,
+    "active": true
+  },
+  {
+    "code": "BIGSAVE25",
+    "discountType": "percent",
+    "discountValue": 25,
+    "minCartValue": 150,
+    "maxDiscountAmount": 100,
+    "validFrom": "2026-01-01T00:00:00.000Z",
+    "validTo": "2027-06-01T00:00:00.000Z",
+    "usageLimitPerUser": 2,
+    "active": true
+  },
+  {
+    "code": "EXPIRED5",
+    "discountType": "flat",
+    "discountValue": 5,
+    "minCartValue": 0,
+    "maxDiscountAmount": null,
+    "validFrom": "2025-01-01T00:00:00.000Z",
+    "validTo": "2025-12-31T23:59:59.000Z",
+    "usageLimitPerUser": null,
+    "active": true
+  },
+  {
+    "code": "PAUSED15",
+    "discountType": "percent",
+    "discountValue": 15,
+    "minCartValue": 50,
+    "maxDiscountAmount": 40,
+    "validFrom": "2026-01-01T00:00:00.000Z",
+    "validTo": "2027-01-01T00:00:00.000Z",
+    "usageLimitPerUser": null,
+    "active": false
+  }
+]

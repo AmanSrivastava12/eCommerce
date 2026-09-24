@@ -1,0 +1,25 @@
+[
+  { "name": "Electronics", "slug": "electronics", "imageUrl": "https://picsum.photos/seed/cat-electronics/400/400" },
+  { "name": "Audio", "slug": "electronics-audio", "parentSlug": "electronics", "imageUrl": "https://picsum.photos/seed/cat-audio/400/400" },
+  { "name": "Wearables", "slug": "electronics-wearables", "parentSlug": "electronics", "imageUrl": "https://picsum.photos/seed/cat-wearables/400/400" },
+  { "name": "Mobiles", "slug": "electronics-mobiles", "parentSlug": "electronics", "imageUrl": "https://picsum.photos/seed/cat-mobiles/400/400" },
+  { "name": "Laptops", "slug": "electronics-laptops", "parentSlug": "electronics", "imageUrl": "https://picsum.photos/seed/cat-laptops/400/400" },
+
+  { "name": "Fashion", "slug": "fashion", "imageUrl": "https://picsum.photos/seed/cat-fashion/400/400" },
+  { "name": "Men's Clothing", "slug": "fashion-men", "parentSlug": "fashion", "imageUrl": "https://picsum.photos/seed/cat-fashion-men/400/400" },
+  { "name": "Women's Clothing", "slug": "fashion-women", "parentSlug": "fashion", "imageUrl": "https://picsum.photos/seed/cat-fashion-women/400/400" },
+  { "name": "Footwear", "slug": "fashion-footwear", "parentSlug": "fashion", "imageUrl": "https://picsum.photos/seed/cat-footwear/400/400" },
+
+  { "name": "Home & Kitchen", "slug": "home-kitchen", "imageUrl": "https://picsum.photos/seed/cat-home/400/400" },
+  { "name": "Cookware", "slug": "home-cookware", "parentSlug": "home-kitchen", "imageUrl": "https://picsum.photos/seed/cat-cookware/400/400" },
+  { "name": "Home Appliances", "slug": "home-appliances", "parentSlug": "home-kitchen", "imageUrl": "https://picsum.photos/seed/cat-appliances/400/400" },
+  { "name": "Furniture", "slug": "home-furniture", "parentSlug": "home-kitchen", "imageUrl": "https://picsum.photos/seed/cat-furniture/400/400" },
+
+  { "name": "Books", "slug": "books", "imageUrl": "https://picsum.photos/seed/cat-books/400/400" },
+  { "name": "Fiction", "slug": "books-fiction", "parentSlug": "books", "imageUrl": "https://picsum.photos/seed/cat-fiction/400/400" },
+  { "name": "Non-Fiction", "slug": "books-non-fiction", "parentSlug": "books", "imageUrl": "https://picsum.photos/seed/cat-nonfiction/400/400" },
+
+  { "name": "Sports & Outdoors", "slug": "sports-outdoors", "imageUrl": "https://picsum.photos/seed/cat-sports/400/400" },
+  { "name": "Fitness & Yoga", "slug": "sports-fitness", "parentSlug": "sports-outdoors", "imageUrl": "https://picsum.photos/seed/cat-fitness/400/400" },
+  { "name": "Outdoor & Camping", "slug": "sports-camping", "parentSlug": "sports-outdoors", "imageUrl": "https://picsum.photos/seed/cat-camping/400/400" }
+]

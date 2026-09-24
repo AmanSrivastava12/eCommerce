@@ -1,0 +1,240 @@
+{
+  "admin": {
+    "email": "admin@shopwave.test",
+    "password": "Password123!",
+    "name": "Platform Admin",
+    "role": "admin"
+  },
+  "sellers": [
+    {
+      "email": "seller1@shopwave.test",
+      "password": "Password123!",
+      "name": "Priya Sharma",
+      "role": "seller",
+      "businessName": "Urban Gadgets Co."
+    },
+    {
+      "email": "seller2@shopwave.test",
+      "password": "Password123!",
+      "name": "Rohan Mehta",
+      "role": "seller",
+      "businessName": "HomeStyle Essentials"
+    }
+  ],
+  "customers": [
+    {
+      "email": "customer1@shopwave.test",
+      "password": "Password123!",
+      "name": "Aditi Verma",
+      "role": "customer",
+      "phone": "+91-9800000001",
+      "dateOfBirth": "1994-03-12",
+      "gender": "female",
+      "addresses": [
+        {
+          "label": "Home",
+          "line1": "221B Baker Street",
+          "line2": "Near City Mall",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "postalCode": "400001",
+          "country": "India",
+          "phone": "+91-9800000001",
+          "isDefault": true
+        },
+        {
+          "label": "Office",
+          "line1": "14th Floor, Trade Tower",
+          "line2": "Bandra Kurla Complex",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "postalCode": "400051",
+          "country": "India",
+          "phone": "+91-9800000001",
+          "isDefault": false
+        }
+      ]
+    },
+    {
+      "email": "customer2@shopwave.test",
+      "password": "Password123!",
+      "name": "Karan Singh",
+      "role": "customer",
+      "phone": "+91-9800000002",
+      "dateOfBirth": "1990-07-22",
+      "gender": "male",
+      "addresses": [
+        {
+          "label": "Home",
+          "line1": "42 MG Road",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "postalCode": "560001",
+          "country": "India",
+          "phone": "+91-9800000002",
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "email": "customer3@shopwave.test",
+      "password": "Password123!",
+      "name": "Sneha Patil",
+      "role": "customer",
+      "phone": "+91-9800000003",
+      "dateOfBirth": "1998-11-05",
+      "gender": "female",
+      "addresses": [
+        {
+          "label": "Home",
+          "line1": "7 Shivaji Nagar",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "postalCode": "411005",
+          "country": "India",
+          "phone": "+91-9800000003",
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "email": "customer4@shopwave.test",
+      "password": "Password123!",
+      "name": "Arjun Nair",
+      "role": "customer",
+      "phone": "+91-9800000004",
+      "addresses": [
+        {
+          "label": "Home",
+          "line1": "18 Marine Drive",
+          "city": "Kochi",
+          "state": "Kerala",
+          "postalCode": "682001",
+          "country": "India",
+          "phone": "+91-9800000004",
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "email": "customer5@shopwave.test",
+      "password": "Password123!",
+      "name": "Meera Iyer",
+      "role": "customer",
+      "phone": "+91-9800000005",
+      "dateOfBirth": "1988-01-30",
+      "gender": "female",
+      "addresses": [
+        {
+          "label": "Home",
+          "line1": "56 Anna Salai",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "postalCode": "600002",
+          "country": "India",
+          "phone": "+91-9800000005",
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "email": "customer6@shopwave.test",
+      "password": "Password123!",
+      "name": "Vikram Rathore",
+      "role": "customer",
+      "phone": "+91-9800000006",
+      "addresses": [
+        {
+          "label": "Home",
+          "line1": "9 Civil Lines",
+          "city": "Jaipur",
+          "state": "Rajasthan",
+          "postalCode": "302006",
+          "country": "India",
+          "phone": "+91-9800000006",
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "email": "customer7@shopwave.test",
+      "password": "Password123!",
+      "name": "Ananya Das",
+      "role": "customer",
+      "phone": "+91-9800000007",
+      "dateOfBirth": "2000-09-18",
+      "gender": "female",
+      "addresses": [
+        {
+          "label": "Home",
+          "line1": "23 Park Street",
+          "city": "Kolkata",
+          "state": "West Bengal",
+          "postalCode": "700016",
+          "country": "India",
+          "phone": "+91-9800000007",
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "email": "customer8@shopwave.test",
+      "password": "Password123!",
+      "name": "Rahul Gupta",
+      "role": "customer",
+      "phone": "+91-9800000008",
+      "addresses": [
+        {
+          "label": "Home",
+          "line1": "101 Sector 15",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "postalCode": "201301",
+          "country": "India",
+          "phone": "+91-9800000008",
+          "isDefault": true
+        },
+        {
+          "label": "Parents' House",
+          "line1": "5 Model Town",
+          "city": "Ludhiana",
+          "state": "Punjab",
+          "postalCode": "141002",
+          "country": "India",
+          "phone": "+91-9800000018",
+          "isDefault": false
+        }
+      ]
+    },
+    {
+      "email": "customer9@shopwave.test",
+      "password": "Password123!",
+      "name": "Ishita Bose",
+      "role": "customer",
+      "phone": "+91-9800000009",
+      "gender": "prefer_not_to_say",
+      "addresses": [
+        {
+          "label": "Home",
+          "line1": "3 Hill View Colony",
+          "city": "Bhopal",
+          "state": "Madhya Pradesh",
+          "postalCode": "462001",
+          "country": "India",
+          "phone": "+91-9800000009",
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "email": "customer10@shopwave.test",
+      "password": "Password123!",
+      "name": "Devansh Kulkarni",
+      "role": "customer",
+      "phone": "+91-9800000010",
+      "dateOfBirth": "1996-05-27",
+      "gender": "male",
+      "addresses": []
+    }
+  ]
+}

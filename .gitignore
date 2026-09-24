@@ -1,0 +1,26 @@
+node_modules/
+.next/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Expo / React Native
+.expo/
+android/
+ios/
+*.apk
+*.aab
+
+# Misc
+dump.rdb
+.DS_Store
+npm-debug.log*
+.claude/
+
+*reference.txt

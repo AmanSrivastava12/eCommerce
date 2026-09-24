@@ -1,0 +1,125 @@
+@import "tailwindcss";
+
+/* Three-color system, off-white led: off-white is the dominant base — body background AND
+   panels/cards/header/footer all sit on it, distinguished only by a hairline border, not a
+   color block. Cream is a light accent used sparingly (small highlights, chips). Brown carries
+   text, links, and actions. */
+:root {
+  --background: #f9f5ee;
+  --surface: #fbf8f2;
+  --cream: #f1e0bd;
+  --foreground: #3a2b1e;
+  --muted: #8a7460;
+  --border: #e6dac2;
+  --brand: #6f4a2f;
+  --brand-dark: #55361f;
+  --brand-light: #a9754b;
+  --brand-foreground: #fff8ef;
+  --price: #6f4a2f;
+  --discount: #8a5a2b;
+  --danger: #b3492f;
+  --star: #a9754b;
+  --header-height: 3.5rem;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-cream: var(--cream);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-brand: var(--brand);
+  --color-brand-dark: var(--brand-dark);
+  --color-price: var(--price);
+  --color-danger: var(--danger);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+/* Wrapped in Tailwind's base layer so utility classes (e.g. text-white on a specific
+   link) still win in the cascade — unlayered CSS beats layered utilities regardless
+   of selector specificity, which silently broke that pattern before. */
+@layer base {
+  a {
+    color: inherit;
+  }
+}
+
+::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Shared hover-lift used on category tiles, product cards, and other clickable panels so
+   hover feedback is consistent site-wide instead of ad-hoc per component. */
+.hover-lift {
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px -12px rgba(58, 43, 30, 0.25);
+  border-color: var(--brand-light);
+}
+
+.line-clamp-1 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Plain `animate-pulse` on the near-background --border color reads as almost nothing
+   happening against the light cream background. A moving highlight is a much clearer
+   "this is loading" signal than a dim pulse. */
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background: var(--border);
+}
+.skeleton::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.5), transparent);
+  animation: shimmer 1.4s ease-in-out infinite;
+}
+@keyframes shimmer {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
