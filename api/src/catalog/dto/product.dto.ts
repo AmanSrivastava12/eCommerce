@@ -7,6 +7,7 @@ import {
   IsInt,
   IsMongoId,
   IsNumber,
+  IsObject,
   IsOptional,
   IsString,
   Max,
@@ -62,7 +63,8 @@ class ProductPricingDto {
 
 class ProductVariantDto {
   @IsString() sku: string;
-  attributes: Record<string, string>;
+  // Needs a decorator: with forbidNonWhitelisted, an undecorated property is rejected outright.
+  @IsOptional() @IsObject() attributes?: Record<string, string>;
   @IsOptional() @IsNumber() @Min(0) priceOverride?: number | null;
   @IsArray() @IsString({ each: true }) images: string[];
   @IsInt() @Min(0) initialQuantity: number;
