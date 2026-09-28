@@ -70,6 +70,16 @@ class ProductVariantDto {
   @IsInt() @Min(0) initialQuantity: number;
 }
 
+// On update, existing variants omit initialQuantity (their stock is managed via inventory);
+// only newly added variants send it.
+class UpdateProductVariantDto {
+  @IsString() sku: string;
+  @IsOptional() @IsObject() attributes?: Record<string, string>;
+  @IsOptional() @IsNumber() @Min(0) priceOverride?: number | null;
+  @IsArray() @IsString({ each: true }) images: string[];
+  @IsOptional() @IsInt() @Min(0) initialQuantity?: number;
+}
+
 class ProductFulfillmentDto {
   @IsOptional() @IsString() warranty?: string | null;
   @IsOptional() @IsBoolean() isAssured?: boolean;
@@ -111,6 +121,12 @@ export class UpdateProductDto {
   faqs?: FaqDto[];
   @IsOptional() @ValidateNested() @Type(() => ProductImagesDto) images?: ProductImagesDto;
   @IsOptional() @ValidateNested() @Type(() => ProductPricingDto) pricing?: ProductPricingDto;
+  @IsOptional()
+  @IsArray()
+  @ArrayMinSize(1)
+  @ValidateNested({ each: true })
+  @Type(() => UpdateProductVariantDto)
+  variants?: UpdateProductVariantDto[];
   @IsOptional()
   @ValidateNested()
   @Type(() => ProductFulfillmentDto)
