@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Shopwave Seller Hub",
+    "slug": "application",
+    "scheme": "ecommerce-seller",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#6f4a2f",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.shopwave.seller"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "Shopwave Seller Hub",
+      "shortName": "Seller Hub"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar",
+      "expo-secure-store",
+      "@react-native-community/datetimepicker",
+      "expo-font"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "97ca3353-7c21-423c-aa3f-70fda9d47e2f"
+      }
+    }
+  }
+}
