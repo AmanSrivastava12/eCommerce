@@ -10,6 +10,8 @@ export interface ProductVariant {
   images: string[];
   /** Units currently available to sell (stock minus reserved). `null` when the SKU has no inventory record. */
   availableQty?: number | null;
+  /** This variant's own price (its priceOverride with the product's discount/sale applied). */
+  price?: EffectivePrice;
 }
 
 export interface Product {

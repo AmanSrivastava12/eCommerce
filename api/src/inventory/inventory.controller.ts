@@ -1,4 +1,4 @@
-import { Body, Controller, Param, Patch, UseGuards } from '@nestjs/common';
+import { Body, Controller, Get, Param, Patch, UseGuards } from '@nestjs/common';
 import { CurrentUser, AuthenticatedUser } from '../common/decorators/current-user.decorator';
 import { Roles } from '../common/decorators/roles.decorator';
 import { JwtAuthGuard } from '../common/guards/jwt-auth.guard';
@@ -12,6 +12,12 @@ import { InventoryService } from './inventory.service';
 @Controller('seller/inventory')
 export class InventoryController {
   constructor(private readonly inventoryService: InventoryService) {}
+
+  /** Stock for every SKU the seller owns — the app shows it per variant. */
+  @Get()
+  list(@CurrentUser() user: AuthenticatedUser) {
+    return this.inventoryService.findBySellerId(user.userId);
+  }
 
   @Patch(':sku')
   update(
