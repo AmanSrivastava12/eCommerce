@@ -39,8 +39,10 @@ export function ProductDetailClient({ id }: { id: string }) {
     );
   }
 
-  const { product, price } = data;
+  const { product, price: productPrice } = data;
   const variant = product.variants.find((v) => v.sku === selectedSku) ?? product.variants[0];
+  // Variants can be priced differently; show what the selected one will actually cost.
+  const price = variant?.price ?? productPrice;
   const sku = variant?.sku ?? '';
   const gallery = variant?.images.length ? variant.images : [product.images.main, ...product.images.gallery];
   const mainImage = activeImage ?? gallery[0] ?? product.images.main;

@@ -40,7 +40,13 @@ export class CartService {
 
   async addItem(userId: string | undefined, dto: AddCartItemDto) {
     const cart = await this.findOrCreateCart(userId, dto.guestSessionId);
-    const { price } = await this.productsService.findPublicById(dto.productId);
+    const { product, price } = await this.productsService.findPublicById(dto.productId);
+    const variant = product.variants.find((v) => v.sku === dto.sku) as
+      | ((typeof product.variants)[number] & { price?: typeof price })
+      | undefined;
+    if (!variant) throw new BadRequestException('That option is not available for this product');
+    // Variants can carry their own price (priceOverride), so charge the selected one's.
+    const variantPrice = variant.price ?? price;
 
     const existing = cart.items.find((i) => i.sku === dto.sku);
     if (existing) {
@@ -50,7 +56,7 @@ export class CartService {
         productId: dto.productId,
         sku: dto.sku,
         quantity: dto.quantity,
-        priceAtAdd: price.effectivePrice,
+        priceAtAdd: variantPrice.effectivePrice,
       });
     }
     await this.touch(cart);

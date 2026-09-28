@@ -24,3 +24,6 @@ npm-debug.log*
 .claude/
 
 *reference.txt
+*CLAUDE.md
+# Local notes with demo passwords
+reference

@@ -1,6 +1,6 @@
 import { BadRequestException, Injectable, NotFoundException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
-import { DataSource, Repository } from 'typeorm';
+import { DataSource, In, Repository } from 'typeorm';
 import { NotificationsService } from '../notifications/notifications.service';
 import { InventoryItem } from './entities/inventory.entity';
 
@@ -30,6 +30,12 @@ export class InventoryService {
 
   findBySellerId(sellerId: string) {
     return this.repo.find({ where: { seller_id: sellerId } });
+  }
+
+  /** Deletes stock rows for variants a seller removed from their product. */
+  async removeSkus(sellerId: string, skus: string[]) {
+    if (skus.length === 0) return;
+    await this.repo.delete({ seller_id: sellerId, sku: In(skus) });
   }
 
   availableQuantity(item: InventoryItem) {

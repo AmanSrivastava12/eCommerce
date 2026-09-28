@@ -1,0 +1,44 @@
+# Files EAS Build must NOT upload for this app.
+#
+# Builds run with `npm run build:apk`, which sets EAS_NO_VCS=1 and EAS_PROJECT_ROOT to this
+# folder, so EAS uploads only this app — not the rest of the eCommerce repo (api/, website/,
+# the other app). In that mode this file replaces .gitignore entirely, so it repeats the
+# .gitignore rules below plus the repo-root ones (env files) that would otherwise not apply.
+
+# dependencies (EAS runs `npm ci` itself)
+node_modules/
+
+# Expo / build output
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# generated native folders (EAS runs prebuild)
+/ios
+/android
+.kotlin/
+
+# signing material — EAS manages credentials; never upload local keys
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# env files: build-time values come from the "env" block in eas.json, not .env
+.env
+.env.*
+
+# logs, caches, local tooling
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+*.tsbuildinfo
+coverage/
+.claude/
+.DS_Store
