@@ -22,6 +22,7 @@ import { ReviewsModule } from './reviews/reviews.module';
 import { SalesModule } from './sales/sales.module';
 import { SearchModule } from './search/search.module';
 import { SellerModule } from './seller/seller.module';
+import { UploadsModule } from './uploads/uploads.module';
 import { UsersModule } from './users/users.module';
 import { WishlistModule } from './wishlist/wishlist.module';
 
@@ -66,6 +67,7 @@ import { WishlistModule } from './wishlist/wishlist.module';
     CouponsModule,
     WishlistModule,
     ReturnsModule,
+    UploadsModule,
   ],
   controllers: [AppController],
   providers: [
